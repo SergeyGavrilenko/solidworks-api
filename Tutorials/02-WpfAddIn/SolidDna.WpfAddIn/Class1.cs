@@ -17,7 +17,7 @@ namespace SolidDna.WpfAddIn
         }
 
         /// <summary>
-        /// Steps to take before any add-ins load
+        /// Steps to take before any add-ins load adsfadf
         /// </summary>
         /// <returns></returns>
         public override void PreLoadPlugIns()
